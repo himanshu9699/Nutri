@@ -1,0 +1,747 @@
+[
+ {
+   "data": "Apples",
+   "Calories": 4905,
+   "Carbohydrates": 1183,
+   "Protiens": 35,
+   "Fats": 1,
+   "Fibre": 197
+ },
+ {
+   "data": "Apricots",
+   "Calories": 516,
+   "Carbohydrates": 1196,
+   "Protiens": 15,
+   "Fats": 42,
+   "Fibre": 215
+ },
+ {
+   "data": "Avocado Pear",
+   "Calories": 1900,
+   "Carbohydrates": 19,
+   "Protiens": 19,
+   "Fats": 195,
+   "Fibre": 34
+ },
+ {
+   "data": "Banana",
+   "Calories": 950,
+   "Carbohydrates": 209,
+   "Protiens": 12,
+   "Fats": 3,
+   "Fibre": 42
+ },
+ {
+   "data": "Blackberries",
+   "Calories": 2525,
+   "Carbohydrates": 51,
+   "Protiens": 9,
+   "Fats": 2,
+   "Fibre": 31
+ },
+ {
+   "data": "Blackcurrants",
+   "Calories": 28,
+   "Carbohydrates": 66,
+   "Protiens": 9,
+   "Fats": 0,
+   "Fibre": 36
+ },
+ {
+   "data": "Blueberries",
+   "Calories": 57,
+   "Carbohydrates": 1449,
+   "Protiens": 74,
+   "Fats": 33,
+   "Fibre": 24
+ },
+ {
+   "data": "Cherries",
+   "Calories": 39,
+   "Carbohydrates": 95,
+   "Protiens": 7,
+   "Fats": 1,
+   "Fibre": 7
+ },
+ {
+   "data": "Clementines",
+   "Calories": 47,
+   "Carbohydrates": 1202,
+   "Protiens": 85,
+   "Fats": 15,
+   "Fibre": 17
+ },
+ {
+   "data": "Cranberries",
+   "Calories": 15,
+   "Carbohydrates": 34,
+   "Protiens": 4,
+   "Fats": 1,
+   "Fibre": 3
+ },
+ {
+   "data": "Damsons",
+   "Calories": 306,
+   "Carbohydrates": 77,
+   "Protiens": 5,
+   "Fats": 0,
+   "Fibre": 14
+ },
+ {
+   "data": "Dates",
+   "Calories": 1074,
+   "Carbohydrates": 271,
+   "Protiens": 13,
+   "Fats": 1,
+   "Fibre": 15
+ },
+ {
+   "data": "Dried Dates",
+   "Calories": 2663,
+   "Carbohydrates": 641,
+   "Protiens": 28,
+   "Fats": 4,
+   "Fibre": 41
+ },
+ {
+   "data": "Figs",
+   "Calories": 45,
+   "Carbohydrates": 98,
+   "Protiens": 13,
+   "Fats": 2,
+   "Fibre": 15
+ },
+ {
+   "data": "Goji Berries",
+   "Calories": 2872,
+   "Carbohydrates": 651,
+   "Protiens": 66,
+   "Fats": 7,
+   "Fibre": 68
+ },
+ {
+   "data": "Gooseberries",
+   "Calories": 25,
+   "Carbohydrates": 3,
+   "Protiens": 11,
+   "Fats": 4,
+   "Fibre": 24
+ },
+ {
+   "data": "Grapefruit",
+   "Calories": 30,
+   "Carbohydrates": 68,
+   "Protiens": 8,
+   "Fats": 1,
+   "Fibre": 13
+ },
+ {
+   "data": "Grapes",
+   "Calories": 651,
+   "Carbohydrates": 158,
+   "Protiens": 4,
+   "Fats": 1,
+   "Fibre": 6
+ },
+ {
+   "data": "Guava",
+   "Calories": 68,
+   "Carbohydrates": 14,
+   "Protiens": 3,
+   "Fats": 1,
+   "Fibre": 5
+ },
+ {
+   "data": "Kiwi Fruit",
+   "Calories": 490,
+   "Carbohydrates": 106,
+   "Protiens": 11,
+   "Fats": 5,
+   "Fibre": 19
+ },
+ {
+   "data": "Lemon",
+   "Calories": 18,
+   "Carbohydrates": 29,
+   "Protiens": 9,
+   "Fats": 3,
+   "Fibre": 21
+ },
+ {
+   "data": "Limes",
+   "Calories": 252,
+   "Carbohydrates": 89,
+   "Protiens": 6,
+   "Fats": 2,
+   "Fibre": 24
+ },
+ {
+   "data": "Loganberries",
+   "Calories": 17,
+   "Carbohydrates": 34,
+   "Protiens": 11,
+   "Fats": 0,
+   "Fibre": 25
+ },
+ {
+   "data": "Lychees",
+   "Calories": 58,
+   "Carbohydrates": 143,
+   "Protiens": 9,
+   "Fats": 1,
+   "Fibre": 7
+ },
+ {
+   "data": "Mango",
+   "Calories": 57,
+   "Carbohydrates": 141,
+   "Protiens": 7,
+   "Fats": 2,
+   "Fibre": 26
+ },
+ {
+   "data": "Melon",
+   "Calories": 295,
+   "Carbohydrates": 695,
+   "Protiens": 69,
+   "Fats": 9,
+   "Fibre": 53
+ },
+ {
+   "data": "Nectarine",
+   "Calories": 359,
+   "Carbohydrates": 8,
+   "Protiens": 12,
+   "Fats": 1,
+   "Fibre": 11
+ },
+ {
+   "data": "Olives",
+   "Calories": 1641,
+   "Carbohydrates": 35,
+   "Protiens": 1,
+   "Fats": 162,
+   "Fibre": 31
+ },
+ {
+   "data": "Olive",
+   "Calories": 1295,
+   "Carbohydrates": 9,
+   "Protiens": 11,
+   "Fats": 133,
+   "Fibre": 25
+ },
+ {
+   "data": "Oranges",
+   "Calories": 374,
+   "Carbohydrates": 85,
+   "Protiens": 11,
+   "Fats": 6,
+   "Fibre": 17
+ },
+ {
+   "data": "Papaya",
+   "Calories": 261,
+   "Carbohydrates": 66,
+   "Protiens": 4,
+   "Fats": 1,
+   "Fibre": 12
+ },
+ {
+   "data": "Passion Fruit",
+   "Calories": 36,
+   "Carbohydrates": 58,
+   "Protiens": 26,
+   "Fats": 4,
+   "Fibre": 33
+ },
+ {
+   "data": "Peach",
+   "Calories": 314,
+   "Carbohydrates": 72,
+   "Protiens": 1,
+   "Fats": 1,
+   "Fibre": 13
+ },
+ {
+   "data": "Pears",
+   "Calories": 375,
+   "Carbohydrates": 913,
+   "Protiens": 28,
+   "Fats": 1,
+   "Fibre": 138
+ },
+ {
+   "data": "Physalis",
+   "Calories": 53,
+   "Carbohydrates": 112,
+   "Protiens": 19,
+   "Fats": 7,
+   "Fibre": 4
+ },
+ {
+   "data": "Pineapple",
+   "Calories": 424,
+   "Carbohydrates": 10,
+   "Protiens": 4,
+   "Fats": 2,
+   "Fibre": 1
+ },
+ {
+   "data": "Plums",
+   "Calories": 345,
+   "Carbohydrates": 81,
+   "Protiens": 5,
+   "Fats": 1,
+   "Fibre": 18
+ },
+ {
+   "data": "Pomegranate",
+   "Calories": 68,
+   "Carbohydrates": 172,
+   "Protiens": 1,
+   "Fats": 3,
+   "Fibre": 6
+ },
+ {
+   "data": "Pomelos",
+   "Calories": 38,
+   "Carbohydrates": 96,
+   "Protiens": 8,
+   "Fats": 0,
+   "Fibre": 1
+ },
+ {
+   "data": "Prunes",
+   "Calories": 1575,
+   "Carbohydrates": 364,
+   "Protiens": 25,
+   "Fats": 4,
+   "Fibre": 58
+ },
+ {
+   "data": "Quince",
+   "Calories": 57,
+   "Carbohydrates": 152,
+   "Protiens": 4,
+   "Fats": 1,
+   "Fibre": 19
+ },
+ {
+   "data": "Raisins",
+   "Calories": 2873,
+   "Carbohydrates": 685,
+   "Protiens": 22,
+   "Fats": 5,
+   "Fibre": 32
+ },
+ {
+   "data": "Raspberries",
+   "Calories": 25,
+   "Carbohydrates": 47,
+   "Protiens": 13,
+   "Fats": 3,
+   "Fibre": 65
+ },
+ {
+   "data": "Redcurrants",
+   "Calories": 204,
+   "Carbohydrates": 43,
+   "Protiens": 11,
+   "Fats": 0,
+   "Fibre": 33
+ },
+ {
+   "data": "Rhubarb",
+   "Calories": 7,
+   "Carbohydrates": 8,
+   "Protiens": 9,
+   "Fats": 1,
+   "Fibre": 14
+ },
+ {
+   "data": "Satsuma",
+   "Calories": 3683,
+   "Carbohydrates": 865,
+   "Protiens": 89,
+   "Fats": 8,
+   "Fibre": 127
+ },
+ {
+   "data": "Sharon Fruit/Persimmon",
+   "Calories": 70,
+   "Carbohydrates": 186,
+   "Protiens": 6,
+   "Fats": 2,
+   "Fibre": 36
+ },
+ {
+   "data": "Strawberries",
+   "Calories": 28,
+   "Carbohydrates": 599,
+   "Protiens": 8,
+   "Fats": 1,
+   "Fibre": 136
+ },
+ {
+   "data": "Sultanas",
+   "Calories": 2913,
+   "Carbohydrates": 692,
+   "Protiens": 28,
+   "Fats": 4,
+   "Fibre": 2
+ },
+ {
+   "data": "Tangerines",
+   "Calories": 183,
+   "Carbohydrates": 42,
+   "Protiens": 5,
+   "Fats": 1,
+   "Fibre": 7
+ },
+ {
+   "data": "Watermelon",
+   "Calories": 30,
+   "Carbohydrates": 7,
+   "Protiens": 4,
+   "Fats": 3,
+   "Fibre": 4
+ },
+ {
+  "data": "Artichoke",
+  "Calories": "47",
+  "Carbohydrates": "10.5",
+  "Protiens": "33",
+  "Fats": "02",
+  "Fibre": "54"
+},
+{
+  "data": "Asparagus",
+  "Calories": "244",
+  "Carbohydrates": "1.9",
+  "Protiens": "29",
+  "Fats": "06",
+  "Fibre": "17"
+},
+{
+  "data": "Aubergine",
+  "Calories": "14",
+  "Carbohydrates": "2.1",
+  "Protiens": "09",
+  "Fats": "04",
+  "Fibre": "19"
+},
+{
+  "data": "Baked Potato",
+  "Calories": "1090",
+  "Carbohydrates": "25.2",
+  "Protiens": "23",
+  "Fats": "01",
+  "Fibre": "24"
+},
+{
+  "data": "Beans",
+  "Calories": "19",
+  "Carbohydrates": "2.8",
+  "Protiens": "13",
+  "Fats": "04",
+  "Fibre": "22"
+},
+{
+  "data": "Broccoli",
+  "Calories": "308",
+  "Carbohydrates": "1.7",
+  "Protiens": "39",
+  "Fats": "09",
+  "Fibre": "26"
+},
+{
+  "data": "Brussels Sprouts",
+  "Calories": "35",
+  "Carbohydrates": "3.1",
+  "Protiens": "33",
+  "Fats": "1",
+  "Fibre": "29"
+},
+{
+  "data": "Butternut Squash",
+  "Calories": "30",
+  "Carbohydrates": "6.8",
+  "Protiens": "09",
+  "Fats": "01",
+  "Fibre": "13"
+},
+{
+  "data": "Cabbage",
+  "Calories": "27",
+  "Carbohydrates": "5g",
+  "Protiens": "1.2g",
+  "Fats": "0.2g",
+  "Fibre": "2.1g"
+},
+{
+  "data": "Carrots",
+  "Calories": "43kcal",
+  "Carbohydrates": "10.1g",
+  "Protiens": "1.03g",
+  "Fats": "0.19g",
+  "Fibre": "3g"
+},
+{
+  "data": "Celery",
+  "Calories": "7.0kcal",
+  "Carbohydrates": "0.9g",
+  "Protiens": "0.5g",
+  "Fats": "0.2g",
+  "Fibre": "1.0g"
+},
+{
+  "data": "Chips",
+  "Calories": "253.0kcal",
+  "Carbohydrates": "37.7g",
+  "Protiens": "3.3g",
+  "Fats": "9.9g",
+  "Fibre": "0.0g"
+},
+{
+  "data": "Courgette",
+  "Calories": "18kcal",
+  "Carbohydrates": "1.8g",
+  "Protiens": "1.8g",
+  "Fats": "0.4g",
+  "Fibre": "0.9g"
+},
+{
+  "data": "Cucumber",
+  "Calories": "10kcal",
+  "Carbohydrates": "1.5g",
+  "Protiens": "0.7g",
+  "Fats": "0.1g",
+  "Fibre": "0.6g"
+},
+{
+  "data": "Fennel",
+  "Calories": "12kcal",
+  "Carbohydrates": "1.8g",
+  "Protiens": "0.9g",
+  "Fats": "0.2g",
+  "Fibre": "2.4g"
+},
+{
+  "data": "Green Beans",
+  "Calories": "23.5kcal",
+  "Carbohydrates": "3.15g",
+  "Protiens": "1.8g",
+  "Fats": "0.41g",
+  "Fibre": "2.92g"
+},
+{
+  "data": "Kale",
+  "Calories": "28kcal",
+  "Carbohydrates": "1.2g",
+  "Protiens": "2.9g",
+  "Fats": "1.4g",
+  "Fibre": "2.6g"
+},
+{
+  "data": "Leek",
+  "Calories": "22kcal",
+  "Carbohydrates": "2.9g",
+  "Protiens": "1.6g",
+  "Fats": "0.5g",
+  "Fibre": "2.2g"
+},
+{
+  "data": "Lettuce",
+  "Calories": "15kcal",
+  "Carbohydrates": "1.8g",
+  "Protiens": "0.8g",
+  "Fats": "0.5g",
+  "Fibre": "0.73g"
+},
+{
+  "data": "Mashed Potato (with Butter)",
+  "Calories": "104.0kcal",
+  "Carbohydrates": "15.5g",
+  "Protiens": "1.8g",
+  "Fats": "4.3g",
+  "Fibre": "1.1g"
+},
+{
+  "data": "Mixed Leaf Salad",
+  "Calories": "18.7kcal",
+  "Carbohydrates": "2.9g",
+  "Protiens": "1.2g",
+  "Fats": "0.2g",
+  "Fibre": "1.8g"
+},
+{
+  "data": "Mixed Salad",
+  "Calories": "24.0kcal",
+  "Carbohydrates": "4.2g",
+  "Protiens": "1.0g",
+  "Fats": "0.3g",
+  "Fibre": "2.0g"
+},
+{
+  "data": "Mixed data",
+  "Calories": "42.7kcal",
+  "Carbohydrates": "6.5g",
+  "Protiens": "2.8g",
+  "Fats": "0.7g",
+  "Fibre": "2.6g"
+},
+{
+  "data": "Mushrooms",
+  "Calories": "157.0kcal",
+  "Carbohydrates": "0.3g",
+  "Protiens": "2.4g",
+  "Fats": "16.2g",
+  "Fibre": "1.5g"
+},
+{
+  "data": "Olives",
+  "Calories": "130kcal",
+  "Carbohydrates": "0.9g",
+  "Protiens": "1.1g",
+  "Fats": "13.3g",
+  "Fibre": "2.5g"
+},
+{
+  "data": "Onions",
+  "Calories": "38.2kcal",
+  "Carbohydrates": "8g",
+  "Protiens": "1.2g",
+  "Fats": "0.2g",
+  "Fibre": "1.3g"
+},
+{
+  "data": "Onion",
+  "Calories": "25kcal",
+  "Carbohydrates": "3g",
+  "Protiens": "2g",
+  "Fats": "0.5g",
+  "Fibre": "1.5g"
+},
+{
+  "data": "Okra",
+  "Calories": "23kcal",
+  "Carbohydrates": "2.2g",
+  "Protiens": "2.1g",
+  "Fats": "0.7g",
+  "Fibre": "3g"
+},
+{
+  "data": "Parsnip",
+  "Calories": "62kcal",
+  "Carbohydrates": "11.6g",
+  "Protiens": "1.7g",
+  "Fats": "1g",
+  "Fibre": "4.3g"
+},
+{
+  "data": "Peas",
+  "Calories": "33kcal",
+  "Carbohydrates": "4.8g",
+  "Protiens": "3.2g",
+  "Fats": "0.2g",
+  "Fibre": "1.4g"
+},
+{
+  "data": "Potatoes",
+  "Calories": "149kcal",
+  "Carbohydrates": "25.9g",
+  "Protiens": "2.9g",
+  "Fats": "4.5g",
+  "Fibre": "1.8g"
+},
+{
+  "data": "Pepper",
+  "Calories": "26.6kcal",
+  "Carbohydrates": "5.3g",
+  "Protiens": "0.8g",
+  "Fats": "0.3g",
+  "Fibre": "1.3g"
+},
+{
+  "data": "Peppers",
+  "Calories": "26kcal",
+  "Carbohydrates": "5.3g",
+  "Protiens": "1.2g",
+  "Fats": "0.2g",
+  "Fibre": "1.7g"
+},
+{
+  "data": "Pumpkin",
+  "Calories": "26kcal",
+  "Carbohydrates": "6.5g",
+  "Protiens": "1g",
+  "Fats": "0.1g",
+  "Fibre": "0.5g"
+},
+{
+  "data": "Radish",
+  "Calories": "12kcal",
+  "Carbohydrates": "1.9g",
+  "Protiens": "0.7g",
+  "Fats": "0.2g",
+  "Fibre": "0.9g"
+},
+{
+  "data": "Rocket",
+  "Calories": "15.6kcal",
+  "Carbohydrates": "1.7g",
+  "Protiens": "0.8g",
+  "Fats": "0.53g",
+  "Fibre": "1.1g"
+},
+{
+  "data": "Spinach",
+  "Calories": "25kcal",
+  "Carbohydrates": "1.6g",
+  "Protiens": "2.8g",
+  "Fats": "0.8g",
+  "Fibre": "2.1g"
+},
+{
+  "data": "Swede",
+  "Calories": "24kcal",
+  "Carbohydrates": "5g",
+  "Protiens": "0.7g",
+  "Fats": "0.3g",
+  "Fibre": "1.6g"
+},
+{
+  "data": "Sweetcorn",
+  "Calories": "31kcal",
+  "Carbohydrates": "5.7g",
+  "Protiens": "1.2g",
+  "Fats": "0.6g",
+  "Fibre": "0.9g"
+},
+{
+  "data": "Tomato",
+  "Calories": "18kcal",
+  "Carbohydrates": "3.04g",
+  "Protiens": "0.73g",
+  "Fats": "0.32g",
+  "Fibre": "0.54g"
+},
+{
+  "data": "Tomatoes",
+  "Calories": "18.3kcal",
+  "Carbohydrates": "2.3g",
+  "Protiens": "1.5g",
+  "Fats": "0.33g",
+  "Fibre": "1g"
+},
+{
+  "data": "Turnip",
+  "Calories": "17kcal",
+  "Carbohydrates": "3.5g",
+  "Protiens": "0.7g",
+  "Fats": "0.2g",
+  "Fibre": "1.8g"
+}
+
+]

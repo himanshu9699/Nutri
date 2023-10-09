@@ -1,0 +1,17 @@
+[
+    {"title": "A", "data": ["Apples", "Apricots", "Avocado Pear", "Artichoke", "Asparagus", "Aubergine"]},
+    {"title": "B", "data": ["Banana", "Blackberries", "Blackcurrants", "Baked Potato", "Beans", "Broccoli", "Brussels Sprouts", "Butternut Squash"]},
+    {"title": "C", "data": ["Cherries", "Clementines", "Cranberries", "Cabbage", "Carrots", "Celery", "Chips", "Courgette", "Cucumber"]},
+    {"title": "D", "data": ["Damsons", "Dates", "Dried Dates"]},
+    {"title": "F", "data": ["Figs", "Fennel"]},
+    {"title": "G", "data": ["Goji Berries", "Gooseberries", "Grapefruit", "Grapes", "Guava", "Green Beans"]},
+    {"title": "K", "data": ["Kiwi Fruit", "Kale"]},
+    {"title": "L", "data": ["Lemon", "Limes", "Loganberries", "Lychees", "Leek", "Lettuce"]},
+    {"title": "M", "data": ["Mango", "Melon", "Mashed Potato (with Butter)", "Mixed Leaf Salad", "Mixed Salad", "Mixed Vegetables", "Mushrooms"]},
+    {"title": "O", "data": ["Olives", "Onions", "Onion", "Okra"]},
+    {"title": "P", "data": ["Parsnip", "Peas", "Potatoes", "Pepper", "Peppers", "Pumpkin"]},
+    {"title": "R", "data": ["Radish", "Rocket"]},
+    {"title": "S", "data": ["Spinach", "Swede", "Sweetcorn"]},
+    {"title": "T", "data": ["Tomato", "Tomatoes", "Turnip"]},
+    {"title": "W", "data": ["Watermelon"]},
+]
